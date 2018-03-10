@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="productDetails" type="PHP" />
+      <mapping pattern="phpconnectiobn" type="PHP" />
+    </extensionMap>
+  </component>
+</application>
